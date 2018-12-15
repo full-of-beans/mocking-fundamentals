@@ -37,5 +37,5 @@ and should probably be published eventually.
 
 ## Credits
 
-All thanks to <a href="https://twitter.com/kentcdodds" target="_blank">Kent C. Dodds</a> for this awwesomeee <a href="https://testingjavascript.com" target="_blank"">Testing JavaScript</a> course
+All thanks to <a href="https://twitter.com/kentcdodds" target="_blank">Kent C. Dodds</a> for this awwesomeee <a href="https://testingjavascript.com" target="_blank">Testing JavaScript</a> course
 
